@@ -5,3 +5,5 @@ Este repositório foi criado com fins meramente didáticos e será usado na disc
 da Universidade do Estado de Santa Catarina.
 
 *Este edit foi adicionado como parte do tutorial.*
+
+*Tutorial finalizado. :)*
